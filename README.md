@@ -1,5 +1,4 @@
 # simple-calculator
-Learned to create a working calculator with the option to break the script on request
 
 Used a little help from ChatGPT, but hey - if it makes it easier to learn and not just copy paste scripts, then all the better for it!
 
