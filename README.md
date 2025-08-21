@@ -1,6 +1,6 @@
 # simple-calculator
 
-Used a little help from ChatGPT, but hey - if it makes it easier to learn and not just copy paste scripts, then all the better for it!
+Used a little help from ChatGPT
 
 The script was tested, debugged (a lot for a fact) and uploaded finally, it took me more than a day to figure it out because i had barely enough time yesterday.
 
